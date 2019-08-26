@@ -10,6 +10,11 @@
         "title": "XDB Architecture",
         "thumbnail": "./public/content/images/thumbnail.jpg",
         "id": 0
+      },
+      {
+        "title": "XDB Paths",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 1
       }
     ],
     "reviewer": "SEC and XDB Team"
